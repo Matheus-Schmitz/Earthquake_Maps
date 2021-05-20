@@ -1,0 +1,3 @@
+https://www.r-bloggers.com/2019/05/earthquake-analysis-3-4-visualizing-data-on-maps/
+
+https://earthquake.usgs.gov/earthquakes/feed/
